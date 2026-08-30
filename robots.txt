@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ruxiawe.github.io/hongtaoshiad/sitemap.xml
